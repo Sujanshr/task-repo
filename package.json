@@ -1,0 +1,19 @@
+{
+  "name": "task-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sujanshr/task-repo.git"
+  },
+  "author": "Sujan Shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sujanshr/task-repo/issues"
+  },
+  "homepage": "https://github.com/Sujanshr/task-repo#readme"
+}
